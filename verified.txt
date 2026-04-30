@@ -1,0 +1,10 @@
+verified address=False
+verified data=False
+verified document=True
+verified gateway=True
+verified grad=True
+verified pwarner=False
+verified server=True
+verified source=False
+verified statement=True
+verified time=True
